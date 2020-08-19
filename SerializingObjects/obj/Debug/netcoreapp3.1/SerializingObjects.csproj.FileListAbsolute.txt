@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/bin/Debug/netcoreapp3.1/SerializingObjects.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/bin/Debug/netcoreapp3.1/SerializingObjects.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/bin/Debug/netcoreapp3.1/SerializingObjects.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/bin/Debug/netcoreapp3.1/SerializingObjects.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/bin/Debug/netcoreapp3.1/SerializingObjects.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/obj/Debug/netcoreapp3.1/SerializingObjects.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/obj/Debug/netcoreapp3.1/SerializingObjects.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/obj/Debug/netcoreapp3.1/SerializingObjects.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/obj/Debug/netcoreapp3.1/SerializingObjects.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_23/homework/SerializingObjects/obj/Debug/netcoreapp3.1/SerializingObjects.pdb
